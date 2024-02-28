@@ -1,4 +1,3 @@
-ㅈ
 # 자바 핵심 개념 정리 2
 <details>
 <summary>JAVA의 접근 제어자의 종류와 특징에 대해 설명해주세요.</summary>

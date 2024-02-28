@@ -1,5 +1,5 @@
 
-# 자바 핵심 개념 정리
+# 자바 핵심 개념 정리 1
 <details>
 <summary>Java에서 제공하는 원시 타입들에 무엇이 있고, 각각 몇 바이트를 차지하나요?</summary>
 <div markdown="1">
