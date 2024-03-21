@@ -57,7 +57,7 @@
 - 메모리 공간: Non-static 멤버는 각 인스턴스마다 별도의 메모리 공간을 차지하는 반면, static 멤버는 클래스 당 한 번만 메모리 공간을 차지하고 모든 인스턴스가 이를 공유합니다.
 - 용도: Non-static 멤버는 인스턴스마다 다른 값을 가질 때 사용하고, static 멤버는 인스턴스 간에 공유되어야 하는 값을 관리하거나 인스턴스 생성 없이 호출되어야 하는 메소드에 사용됩니다.
 
-'''java
+```java
 public class Car {
     // non-static 멤버 변수: 각 Car 인스턴스의 고유 정보
     private String model;
@@ -97,7 +97,7 @@ public class Car {
         Car.displayTotalCars();
     }
 }
-'''
+```
 
 </div>
 </details>
